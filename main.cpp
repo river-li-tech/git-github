@@ -5,6 +5,6 @@ int main() {
     cout << "hello, main" << endl;
     int ret = Foo(3, 4);
     Bar();
-    cout << "version 4" << endl;
+    cout << "version 4.5" << endl;
     return 0;
 }
