@@ -1,4 +1,4 @@
-void Foo()
+void Foo(int a, int b)
 {
-    cout << "hello, foo" << endl;
+    return a + b;
 }
