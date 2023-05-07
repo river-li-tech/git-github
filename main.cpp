@@ -3,6 +3,6 @@ using namespace std;
 
 int main() {
     cout << "hello, main" << endl;
-    Foo();
+    int ret = Foo(3, 4);
     return 0;
 }
