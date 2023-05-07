@@ -1,4 +1,4 @@
-int Foo(int a, int b)
+void Foo(int a, int b)
 {
     return a + b;
 }
