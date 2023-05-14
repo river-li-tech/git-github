@@ -6,3 +6,4 @@ notify dev branch 5
 notify dev branch 6
 
 notify dev branch 7
+notify dev branch 8
