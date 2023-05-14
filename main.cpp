@@ -20,4 +20,5 @@ notify main branch 7
 notify main branch 8
 
 notify main branch 9
+notify main branch 10
 
